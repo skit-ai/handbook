@@ -1,5 +1,10 @@
 # Values
 
+Values shape the culture of the company and we believe that the cultural fit
+always comes before the skill sets. We look to hire the best talent who are
+deeply aligned with our values. We live by these values in our day-to-day work,
+and especially during hard times.
+
 ## Customer First
 
 We start with our customer’s goals in mind, invest in user research and then
