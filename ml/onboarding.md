@@ -7,10 +7,12 @@ This is the onboarding doc for joinees in Machine Learning team.
 > This onboarding is unconnected to the team wide AI onboarding which is listed
 > on the admin/onboarding page.
 
+@poc here is the point of contact from the ML team. Usually the manager.
+
 ## General Process
 
 Once you have joined and are present on slack, expect your general onboarding to
-start. @abhinav will get in touch with you regarding ML specific one.
+start. @poc will get in touch with you regarding ML specific one.
 
 The general process is to do a quick skim of this documentation and leave you
 some time to get onboarded with the logistical aspects.
@@ -40,11 +42,11 @@ have at least the following accounts setup:
 3. Github and Gitlab for working on projects.
 
 
-A few more one time tasks with @abhinav:
-1. Setup a calendar event with @abhinav preferably on your day 1.
+A few more one time tasks with @poc:
+1. Setup a calendar event with @poc preferably on your day 1.
 2. Also provide your info for getting up on the [team
    page](https://vernacular-ai.github.io/ml/team).
-3. Remind @abhinav to add you to the @ml slack user-group.
+3. Remind @poc to add you to the @ml slack user-group.
 
 ## Work
 
@@ -98,7 +100,7 @@ the following to encourage that:
 + Every Friday around 17:00 we have a _Paper Reading_ session. The output goes
   [here](https://backyard.vernacular.ai/paper-reading/). Contact @manas for more
   details.
-+ In _State of ML_ we all talk about what ML problems we are working on and try
++ In _wAYWO_ we all talk about what ML problems we are working on and try
   to discuss better approaches among ourselves. This happens once in two weeks.
   Check calendar for more details. The calendar event also contains link to a
   Google doc.
@@ -118,4 +120,4 @@ content part and process of which is still getting ironed out.
 + Monthly we organize an ML Team Stuff event where we try to go out and do
   something. Mostly team lunches.
 + Roughly every month we also do 1:1. Information about this will be
-  communicated to you separately by @abhinav.
+  communicated to you separately by @poc.
